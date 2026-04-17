@@ -1,5 +1,9 @@
 Changelog: BPStats
 
+4.26.0417.1419 (2026-04-17)
+Feature: Eliminate use of (yellow) View Reports button
+Tweak: Minor changes to improve user experience
+
 4.26.0416.0843 (2026-04-16)
 . BugFix: Codes Report not printing descriptions
 . BugFix: Travel Group not showing last category (9-24h)
