@@ -1,5 +1,9 @@
 Changelog: BPStats
 
+4.26.0416.0843 (2026-04-16)
+. BugFix: Codes Report not printing descriptions
+. BugFix: Travel Group not showing last category (9-24h)
+
 4.26.0305.1538 (2026-03-05)
 . Feature: New Charting Option to show lowest reading each day
 . Tweak: Minor changes to improve performance
