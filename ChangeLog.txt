@@ -1,5 +1,8 @@
 Changelog: BPStats
 
+4.26.0419.1041 (2026-04-18)
+Feature: Stamp Graphs with Version #
+
 4.26.0417.1419 (2026-04-17)
 Feature: Eliminate use of (yellow) View Reports button
 Tweak: Minor changes to improve user experience
